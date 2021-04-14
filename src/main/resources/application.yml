@@ -1,6 +1,7 @@
 server:
   port: 8761
 
+# fetch-registry: Receive From to Eureka Server ServiceList Cashing Enabled
 eureka:
   client:
     register-with-eureka: false
